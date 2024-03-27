@@ -1,6 +1,32 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+{
+    "notes": [
+      {
+        "id": 1,
+        "title": "Meeting Notes",
+        "content": "Discuss quarterly goals.\nAssign tasks.\nSet next meeting date.",
+        "tags": ["meeting", "planning"],
+        "createdAt": "2024-03-26T10:00:00Z",
+        "updatedAt": "2024-03-26T11:30:00Z",
+        "favorite": true
+      },
+      {
+        "id": 2,
+        "title": "Grocery List",
+        "content": "Milk\nEggs\nBread\nCheese\nApples",
+        "tags": ["grocery"],
+        "createdAt": "2024-03-25T17:00:00Z",
+        "updatedAt": "2024-03-25T17:05:00Z",
+        "favorite": false
+      },
+      {
+        "id": 3,
+        "title": "Ideas",
+        "content": "Write a novel.\nLearn a new language.\nStart a blog.",
+        "tags": ["ideas", "writing"],
+        "createdAt": "2024-03-24T09:30:00Z",
+        "updatedAt": "2024-03-24T12:00:00Z",
+        "favorite": true
+      }
+    ]
+  }
+  
